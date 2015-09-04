@@ -32,3 +32,4 @@ python pomoFM.py
 #使用豆瓣FM
 python pomoFM.py douban
 ```
+<center><img src="data/6.png" width="300px" /></center>
